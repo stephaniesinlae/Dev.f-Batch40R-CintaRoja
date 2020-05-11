@@ -1,0 +1,18 @@
+{
+  "name": "6_promesas",
+  "version": "1.0.0",
+  "description": "Ejemplo promesas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "main.js"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "StephanieSinLaE",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

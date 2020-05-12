@@ -1,0 +1,21 @@
+{
+  "name": "6_crud",
+  "version": "1.0.0",
+  "description": "Tarea CRUD",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "create",
+    "read",
+    "update",
+    "delete"
+  ],
+  "author": "StephanieSinLaE",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
